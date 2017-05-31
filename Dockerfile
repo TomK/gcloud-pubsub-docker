@@ -4,5 +4,5 @@ ENV CLOUDSDK_CORE_DISABLE_PROMPTS 1
 
 COPY start.sh /start.sh
 
-CMD ["start.sh"]
+CMD ["/start.sh"]
 
