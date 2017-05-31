@@ -1,1 +1,1 @@
-gcloud beta emulators pubsub start --host-port $PUBSUB_EMULATOR_HOST
+gcloud beta emulators pubsub start --host-port 0.0.0.0:9052

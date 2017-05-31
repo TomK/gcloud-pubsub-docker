@@ -6,3 +6,4 @@ COPY start.sh /start.sh
 
 CMD ["/start.sh"]
 
+EXPOSE 9052
